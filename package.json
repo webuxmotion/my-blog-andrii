@@ -3,8 +3,7 @@
   "description": "Sample blog built with Gatsby.js using Prismic headless CMS",
   "author": "Prismic",
   "engines": {
-    "node": "14.17.3",
-    "yarn": "1.22.4"
+    "node": "14.17.3"
   },
   "dependencies": {
     "gatsby": "^3.5.0",
