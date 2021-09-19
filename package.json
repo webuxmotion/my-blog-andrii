@@ -2,9 +2,6 @@
   "name": "gatsbyjs-blog",
   "description": "Sample blog built with Gatsby.js using Prismic headless CMS",
   "author": "Prismic",
-  "engines": {
-    "node": "14.17.3"
-  },
   "dependencies": {
     "gatsby": "^3.5.0",
     "gatsby-plugin-image": "^1.8.0",
